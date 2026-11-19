@@ -1,0 +1,37 @@
+[
+  {
+    "source": "/solutions/food-delivery-application",
+    "destination": "/food-delivery-application",
+    "permanent": true
+  },
+  {
+    "source": "/solutions/mobile-commerce-application",
+    "destination": "/mobile-commerce-application",
+    "permanent": true
+  },
+  {
+    "source": "/solutions/real-estate-website-development-solutions",
+    "destination": "/real-estate-website-development-solutions",
+    "permanent": true
+  },
+  {
+    "source": "/solutions/learning-management-platform",
+    "destination": "/learning-management-platform",
+    "permanent": true
+  },
+  {
+    "source": "/solutions/real-estate-listing-solutions",
+    "destination": "/real-estate-listing-solutions",
+    "permanent": true
+  },
+  {
+    "source": "/solutions/ecommerce-cart-development",
+    "destination": "/ecommerce-cart-development",
+    "permanent": true
+  },
+  {
+    "source": "/solutions/cutting-edge-web-development-solutions",
+    "destination": "/cutting-edge-web-development-solutions",
+    "permanent": true
+  }
+]

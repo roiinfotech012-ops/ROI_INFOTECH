@@ -1,0 +1,348 @@
+{
+  "main_menu": [
+    {
+      "title": "Home",
+      "url": "/"
+    },
+    {
+      "title": "Services",
+      "url": "/service",
+      "categories": [
+        {
+          "category": "Design and Branding",
+          "items": [
+            {
+              "title": "Brand Identity",
+              "url": "/service/brand-identity-development-solutions/"
+            },
+            {
+              "title": "Logo Design",
+              "url": "/service/logo-design-services/"
+            },
+            {
+              "title": "Corporate Identity",
+              "url": "/service/corporate-identity-development/"
+            },
+            {
+              "title": "Brochure Design",
+              "url": "/service/brochure-design-solutions/"
+            }
+          ]
+        },
+        {
+          "category": "Web Solutions",
+          "items": [
+            {
+              "title": "Website Design",
+              "url": "/service/web-design-solutions/"
+            },
+            {
+              "title": "Web Application Development",
+              "url": "/service/custom-web-application-development/"
+            },
+            {
+              "title": "Small Business Website",
+              "url": "/service/small-business-website-development/"
+            },
+            {
+              "title": "Web Designing (Alternate)",
+              "url": "/service/web-desiging/"
+            }
+          ]
+        },
+        {
+          "category": "eCommerce",
+          "items": [
+            {
+              "title": "eCommerce Website Design",
+              "url": "/service/ecommerce-solutions/"
+            },
+            {
+              "title": "eCommerce App",
+              "url": "/service/mobile-commerce-app/"
+            },
+            {
+              "title": "Shopify Development",
+              "url": "/service/shopify-solutions/"
+            }
+          ]
+        },
+        {
+          "category": "Mobile Applications",
+          "items": [
+            {
+              "title": "Mobile App Development",
+              "url": "/service/mobile-app-development-solutions/"
+            },
+            {
+              "title": "Android App Development",
+              "url": "/service/android-application-development-services/"
+            },
+            {
+              "title": "iOS App Development",
+              "url": "/service/ios-app-development-services/"
+            },
+            {
+              "title": "React Native Development",
+              "url": "/service/cross-platform-app-development-services/"
+            },
+            {
+              "title": "Hybrid App Development",
+              "url": "/service/cross-platform-mobile-app-development-solutions/"
+            }
+          ]
+        },
+        {
+          "category": "Digital Marketing",
+          "items": [
+            {
+              "title": "Digital Marketing",
+              "url": "/service/digital-marketing-solutions/"
+            },
+            {
+              "title": "SEO Services",
+              "url": "/service/seo-services-outcome-driven-and-cost-effective/"
+            },
+            {
+              "title": "Social Media Marketing",
+              "url": "/service/social-media-marketing-services/"
+            },
+            {
+              "title": "PPC Management",
+              "url": "/service/ppc-campaign-management-services/"
+            },
+            {
+              "title": "Local SEO",
+              "url": "/service/local-search-engine-optimization-seo-solutions/"
+            },
+            {
+              "title": "SEO Optimization",
+              "url": "/service/seo-optimization/"
+            }
+          ]
+        },
+        {
+          "category": "Consulting & Business Strategy",
+          "items": [
+            {
+              "title": "Business Strategy",
+              "url": "/service/business-strategy/"
+            },
+            {
+              "title": "Market Research and Advertising",
+              "url": "/service/market-research-and-advertising/"
+            },
+            {
+              "title": "Legal Assessment and HR Management",
+              "url": "/service/legal-assessment-and-hr-management/"
+            },
+            {
+              "title": "Brand Package",
+              "url": "/service/brand-package/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Technologies",
+      "url": "/technology",
+      "categories": [
+        {
+          "category": "Web Technologies",
+          "items": [
+            {
+              "title": "Node.js Development",
+              "url": "/technology/node-js-application-development-services/"
+            },
+            {
+              "title": "Angular Development",
+              "url": "/technology/angular-development-services/"
+            },
+            {
+              "title": "React Development",
+              "url": "/technology/react-development-services/"
+            },
+            {
+              "title": "PHP Development",
+              "url": "/technology/php-development-services/"
+            },
+            {
+              "title": "MongoDB Development",
+              "url": "/technology/mongodb-development-services/"
+            }
+          ]
+        },
+        {
+          "category": "CMS Development",
+          "items": [
+            {
+              "title": "WordPress Development",
+              "url": "/technology/wordpress-development-services/"
+            },
+            {
+              "title": "Drupal Development",
+              "url": "/technology/drupal-development-services/"
+            },
+            {
+              "title": "Joomla Development",
+              "url": "/technology/joomla-development-services/"
+            }
+          ]
+        },
+        {
+          "category": "eCommerce Technologies",
+          "items": [
+            {
+              "title": "Magento Development",
+              "url": "/technology/magento-development-solutions/"
+            },
+            {
+              "title": "Shopify Development",
+              "url": "/technology/shopify-development-solutions/"
+            },
+            {
+              "title": "BigCommerce Development",
+              "url": "/technology/bigcommerce-ecommerce-development-services/"
+            },
+            {
+              "title": "WooCommerce Solutions",
+              "url": "/technology/woocommerce-solutions/"
+            },
+            {
+              "title": "OpenCart Solutions",
+              "url": "/technology/opencart-solutions/"
+            }
+          ]
+        },
+        {
+          "category": "Mobile Technologies",
+          "items": [
+            {
+              "title": "Android Application Development",
+              "url": "/technology/development-of-android-applications/"
+            },
+            {
+              "title": "iOS Application Development",
+              "url": "/technology/ios-application-development/"
+            },
+            {
+              "title": "React Native App Development",
+              "url": "/technology/cross-platform-react-native-app-development/"
+            },
+            {
+              "title": "Ionic Development Solutions",
+              "url": "/technology/ionic-development-solutions/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hire Us",
+      "url": "/hire",
+      "items": [
+        {
+          "title": "Hire Angular Developers",
+          "url": "/hire/engage-angular-developers/"
+        },
+        {
+          "title": "Hire Node.js Developers",
+          "url": "/hire/engage-node-js-developers/"
+        },
+        {
+          "title": "Hire Laravel Developers",
+          "url": "/hire/engage-laravel-developers/"
+        },
+        {
+          "title": "Hire PHP Developers",
+          "url": "/hire/engage-php-developers/"
+        },
+        {
+          "title": "Hire WordPress Developers",
+          "url": "/hire/engage-wordpress-developers/"
+        },
+        {
+          "title": "Hire Android Developers",
+          "url": "/hire/engage-android-developers/"
+        },
+        {
+          "title": "Hire iOS Developers",
+          "url": "/hire/engage-ios-developers/"
+        },
+        {
+          "title": "Hire React Native Developers",
+          "url": "/hire/engage-react-native-developers/"
+        }
+      ]
+    },
+    {
+      "title": "Solutions",
+      "url": "/solutions",
+      "items": [
+        {
+          "title": "Food Delivery Application",
+          "url": "/food-delivery-application/"
+        },
+        {
+          "title": "Mobile Commerce Application",
+          "url": "/mobile-commerce-application/"
+        },
+        {
+          "title": "Real Estate Website Development",
+          "url": "/real-estate-website-development-solutions/"
+        },
+        {
+          "title": "Learning Management Platform",
+          "url": "/learning-management-platform/"
+        },
+        {
+          "title": "Real Estate Listing Solutions",
+          "url": "/real-estate-listing-solutions/"
+        },
+        {
+          "title": "eCommerce Cart Development",
+          "url": "/ecommerce-cart-development/"
+        },
+        {
+          "title": "Web Development Solutions",
+          "url": "/cutting-edge-web-development-solutions/"
+        }
+      ]
+    },
+    {
+      "title": "Company",
+      "url": "/about",
+      "items": [
+        {
+          "title": "About Us",
+          "url": "/about/"
+        },
+        {
+          "title": "Clients",
+          "url": "/clients/"
+        },
+        {
+          "title": "Careers",
+          "url": "/careers/"
+        },
+        {
+          "title": "FAQ",
+          "url": "/faq/"
+        },
+        {
+          "title": "Terms & Conditions",
+          "url": "/terms-and-conditions/"
+        },
+        {
+          "title": "Testimonials",
+          "url": "/testimonials/"
+        }
+      ]
+    },
+    {
+      "title": "Contact Us",
+      "url": "/contact/"
+    }
+  ]
+}
